@@ -1,0 +1,22 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "https://openvex.dev/docs/public/vex-091509fa4db8e7948456630cbccf3ebd957b648a16d471d78c84b43040f49a60",
+  "author": "Unknown Author",
+  "timestamp": "2023-09-20T11:42:12.074772+02:00",
+  "version": 1,
+  "tooling": "test",
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-2014-123456"
+      },
+      "timestamp": "2023-09-20T11:42:12.07479+02:00",
+      "products": [
+        {
+          "@id": "pkg:generic/product@1.0.0"
+        }
+      ],
+      "status": "fixed"
+    }
+  ]
+}

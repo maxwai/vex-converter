@@ -1,0 +1,35 @@
+{
+  "@context": "https://openvex.dev/ns/v0.2.0",
+  "@id": "merged-vex-bd1900507c34eb17c532fb3fabd6904b48fe2a07cb0d6d3b734dbd8dd837dacb",
+  "author": "Unknown Author",
+  "timestamp": "2023-09-20T11:49:15.587679+02:00",
+  "version": 1,
+  "statements": [
+    {
+      "vulnerability": {
+        "name": "CVE-1234-5678"
+      },
+      "timestamp": "2023-09-20T11:47:29.038232+02:00",
+      "products": [
+        {
+          "@id": "pkg:generic/product@1.0.0"
+        }
+      ],
+      "status": "under_investigation"
+    },
+    {
+      "vulnerability": {
+        "name": "CVE-1234-5678"
+      },
+      "timestamp": "2023-09-20T11:48:20.870256+02:00",
+      "products": [
+        {
+          "@id": "pkg:generic/product@1.0.0"
+        }
+      ],
+      "status": "affected",
+      "action_statement": "No action statement provided",
+      "action_statement_timestamp": "2023-09-20T11:48:20.870256+02:00"
+    }
+  ]
+}
